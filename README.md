@@ -1,5 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=efemevlut&show_icons=true&theme=tokyonight" align='right' width="55%">
 
+<img src="./animation.gif" alt="react-native" width="20%" height="20%" align="right">
 
 ## Hi there👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efemevlut" alt="efemevlut" /> </p>
@@ -8,7 +9,6 @@
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://efemevlut20.medium.com/)
 
 
-<img src="./animation.gif" alt="react-native" width="20%" height="20%" align="right" right="450px" top="30px">
 
 -  I’m currently working on frontend and mobile app development 
 -  I’m currently learning JavaScript | React | React Native | Node.js | MongoDB | Django
