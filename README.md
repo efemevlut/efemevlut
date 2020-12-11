@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://efemevlut20.medium.com/)
 
 
-<img src="./animation.gif" alt="react-native" width="20%" height="20%" align="right" right="450px" top="30px>
+<img src="./animation.gif" alt="react-native" width="20%" height="20%" align="right" right="450px" top="30px">
 
 -  I’m currently working on frontend and mobile app development 
 -  I’m currently learning JavaScript | React | React Native | Node.js | MongoDB | Django
