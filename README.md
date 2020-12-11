@@ -15,7 +15,7 @@
 -  I’m looking to collaborate on open source projects
 -  Ask me about anything that you want to learn
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmertdogann&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efemevlut&layout=compact&show_icons=true&theme=react)](https://github.com/efemevlut/github-readme-stats&hide_border=true&show_icons=true&langs_count=3)
 
 <p>My Tools :<p/>
 <p align="bottom">
