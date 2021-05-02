@@ -10,8 +10,8 @@
 
 
 
--  I’m currently working on frontend and mobile app development 
--  I’m currently learning JavaScript | React | React Native | Node.js | MongoDB | Django
+-  I’m currently working on frontend and backend app development 
+-  I’m currently working on JavaScript | React | React Native | Node.js | Express.JS | MongoDB | MySQL
 -  I’m looking to collaborate on open source projects
 -  Ask me about anything that you want to learn
 
