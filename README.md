@@ -17,6 +17,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efemevlut&layout=compact&show_icons=true&theme=react)](https://github.com/efemevlut/github-readme-stats&hide_border=true&show_icons=true&langs_count=3)
 
+[<img src="https://spotify-readme-navy.vercel.app/api/run-spotify-status" alt="Your alt what" width="400" />](https://open.spotify.com/user/lfc1x3bv3urfg43qgzdz96vc6)
+
 <p>My Tools :<p/>
 <p align="bottom">
 <img src="./css3.png" width="25" height="25" border: 5px solid #555>
