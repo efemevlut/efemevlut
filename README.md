@@ -15,7 +15,7 @@
 -  I’m looking to collaborate on open source projects
 -  Ask me about anything that you want to learn
 
-[<img align="left" src="https://spotify-readme-navy.vercel.app/api./run-spotify-status" alt="Your alt what" width="400" style="margin-right: 20%"/>](https://open.spotify.com/user/lfc1x3bv3urfg43qgzdz96vc6)
+[<img align="left" src="https://spotify-readme-navy.vercel.app/api/run-spotify-status" alt="Your alt what" width="400" style="margin-right: 20%"/>](https://open.spotify.com/user/lfc1x3bv3urfg43qgzdz96vc6)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efemevlut&layout=compact&show_icons=true&theme=react)](https://github.com/efemevlut/github-readme-stats&hide_border=true&show_icons=true&langs_count=3)
 
