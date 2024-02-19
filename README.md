@@ -10,9 +10,9 @@
 
 
 
-🔭 I’m currently working on developing and enhancing fintech tables using ag-Grid to provide clear and interactive data visualizations.
-🌱 I’m currently learning advanced React techniques, TypeScript, and cloud services with AWS S3, alongside exploring the capabilities of Contentful as a powerful headless CMS.
-👯 I’m looking to collaborate on open source projects that aim to innovate in the fintech space, especially those that leverage modern JavaScript frameworks, Java Spring Boot, or Node.js for backend solutions.
+- 🔭 I’m currently working on developing and enhancing fintech tables using ag-Grid to provide clear and interactive data visualizations.
+- 🌱 I’m currently learning advanced React techniques, TypeScript, and cloud services with AWS S3, alongside exploring the capabilities of Contentful as a powerful headless CMS.
+- 👯 I’m looking to collaborate on open source projects that aim to innovate in the fintech space, especially those that leverage modern JavaScript frameworks, Java Spring Boot, or Node.js for backend solutions.
 🤔 I’m exploring efficient CI/CD pipelines using Bamboo and ensuring code quality with SonarQube.
 💬 Ask me about React, TypeScript, AWS services, Contentful, Java Spring Boot, Node.js, and best practices for developing scalable and maintainable web applications.
 
